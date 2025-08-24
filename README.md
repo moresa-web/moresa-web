@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moresa-web
 - 😁 My Name is Mohammadreza Sardashti
-- 🌍 I’m From Iran, my language is Pershian
+- 🌍 I’m From Iran, my language is Persian
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning Back End Web Development
 - 💞️ I’m looking to collaborate on Microsoft
